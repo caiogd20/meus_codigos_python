@@ -1,0 +1,8 @@
+x = input('escrva algo')
+print('o tipo primitovo desse valor é {}'.format(type(x)))
+print('Só tem espasos {}'.format(x.isspace()))
+print('É um numero {}'.format(x.isnumeric()))
+print('É alfabetico {}'.format(x.isalpha()))
+print('É alfanomerico {}'.format(x.isalnum()))
+print('maiuscula{}'.format(x.isupper()))
+print('minuscula{}'.format(x.islower()))
