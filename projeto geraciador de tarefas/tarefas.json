@@ -1,0 +1,17 @@
+[
+    {
+        "descricao": "teste gerenciador de tarefas",
+        "concluida": true,
+        "prioridade": "none"
+    },
+    {
+        "descricao": "enviar para o gmini analisar",
+        "prioridade": "none",
+        "concluida": true
+    },
+    {
+        "descricao": "aaaa",
+        "prioridade": "none",
+        "concluida": true
+    }
+]
